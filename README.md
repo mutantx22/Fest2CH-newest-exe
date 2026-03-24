@@ -35,7 +35,7 @@ Before running the script, you will need a few external tools and libraries:
 
 1. **[Python 3.x](https://www.python.org/downloads/)**
 2. **[FFmpeg](https://ffmpeg.org/download.html):** Must be installed and added to your system's `PATH`.
-3. **`blurlconvert.exe`:** Required to convert the downloaded `master.blurl` files into readable `.mp4` audio, this can be built [here.](https://github.com/spiritascend/blurlconvert)
+3. **`blurlconvert.exe`:** Required to convert the downloaded `master.blurl` files into readable 10-track stems, this can be built [here.](https://github.com/spiritascend/blurlconvert)
 
 ### Python Dependencies
 Install the required Python packages using pip:
