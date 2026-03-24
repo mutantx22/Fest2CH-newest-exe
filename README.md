@@ -78,6 +78,9 @@ python fest2ch.py ^
   --oggq 8
 ```
 ---
+## Credits
+
+Many thanks to the people in the FN Festival Hub Discord, and thank you to BeastFNCreative for providing the list of VUIDs, which can be found [here.](https://github.com/BeastFNCreative/fortnite-blurl-archive)
 
 ## Notice!
 
